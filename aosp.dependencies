@@ -10,5 +10,11 @@
     "repository": "mukul2259/stealth_beryllium",
     "target_path": "kernel/xiaomi/sdm845"
     "branch": "ten"
+  },
+  {
+    "remote": "gitlab",
+    "repository": "PixelExperience/vendor_xiaomi-firmware",
+    "target_path": "vendor/xiaomi-firmware"
+    "branch": "ten"
   }
 ]
