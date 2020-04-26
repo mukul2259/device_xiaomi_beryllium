@@ -16,6 +16,12 @@ PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := POCO F1
 PRODUCT_MANUFACTURER := Xiaomi
 
+# Build Official
+CUSTOM_BUILD_TYPE := OFFICIAL
+EVO_DONATE_URL := https://www.paypal.me/mukul2259
+EVO_MAINTAINER := _undead
+EVO_SUPPORT_URL := https://t.me/EvolutionXBeryllium
+
 # Boot Animation
 TARGET_BOOT_ANIMATION_RES := 1080
 
