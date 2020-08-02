@@ -19,6 +19,9 @@ PRODUCT_MANUFACTURER := Xiaomi
 # Boot Animation
 TARGET_BOOT_ANIMATION_RES := 1080
 
+# Official Build
+P404_BUILDTYPE := QEMU
+
 BUILD_FINGERPRINT := "google/coral/coral:10/QQ3A.200705.002/6506677:user/release-keys"
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
