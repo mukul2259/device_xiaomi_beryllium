@@ -19,14 +19,8 @@
     <dimen name="rounded_corner_content_padding">10dp</dimen>
 
     <!-- The starting padding for the clock in the status bar. -->
-    <dimen name="status_bar_clock_starting_padding">4dp</dimen>
+    <dimen name="status_bar_clock_starting_padding">2.5dp</dimen>
 
     <!-- End padding for left-aligned status bar clock -->
-    <dimen name="status_bar_left_clock_end_padding">4dp</dimen>
-
-    <!-- Spacing after the wifi signals that is present if there are any icons following it. -->
-    <dimen name="status_bar_wifi_signal_spacer_width">1.5dp</dimen>
-
-    <!-- Spacing before the airplane mode icon if there are any icons preceding it. -->
-    <dimen name="status_bar_airplane_spacer_width">2dp</dimen>
+    <dimen name="status_bar_left_clock_end_padding">2.5dp</dimen>
 </resources>
