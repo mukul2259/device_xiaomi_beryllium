@@ -9,6 +9,9 @@ $(call inherit-product, device/xiaomi/beryllium/device.mk)
 # Inherit some common WaveOS stuff.
 $(call inherit-product, vendor/wave/configs/common.mk)
 
+# Faceunlock
+TARGET_FACE_UNLOCK_SUPPORTED := true
+
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := wave_beryllium
 PRODUCT_DEVICE := beryllium
